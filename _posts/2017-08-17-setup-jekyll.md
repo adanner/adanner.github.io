@@ -23,7 +23,7 @@ gem install jekyll
 * set path for local gems
 ```
 cat ~/.bash_profile | grep PATH
-PATH=$PATH:$HOME/.gem/ruby/2.3.0/bin
+PATH=$PATH:$HOME/.gem/ruby/2.7.0/bin
 ```
 
 * setup github pages
